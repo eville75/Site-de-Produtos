@@ -7,15 +7,15 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #d8cccc;
+    color: #340000;
 }
 
 header {
-    background-color: #f7f7f7;
-    padding: 20px;
+    background-color: #ff7171; /*MUDAR*/
+    padding: 50px;
     text-align: center;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #ffffff;
 }
 
 header h1 {
@@ -40,26 +40,26 @@ nav ul li a {
     text-decoration: none;
     color: #333;
     padding: 10px 15px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    background-color: #fff;
+    border: 0.5px solid #ec1414;
+    border-radius: 30px;
+    background-color: #fff; /*MUDAR*/
     transition: background-color 0.3s;
 }
 
 nav ul li a:hover {
-    background-color: #ddd;
+    background-color: #ddd; /*MUDAR*/
 }
 
 /* Seções */
 section {
-    margin-top: 40px;
+    margin-top: 50px;
 }
 
 section h2 {
     font-size: 22px;
     margin-bottom: 20px;
     text-align: center;
-    color: #444;
+    color: #000000;
 }
 
 .grade-produtos {
@@ -92,6 +92,11 @@ section h2 {
 .produto p {
     font-size: 14px;
     margin-bottom: 5px;
+}
+
+.comprar {
+    background-color: #009d1a;
+
 }
 
 footer {
