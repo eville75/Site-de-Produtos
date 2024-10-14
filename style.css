@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background-color: #ff7171; /*MUDAR*/
+    background-image: url(image\ copy.png); /*MUDAR*/
     padding: 50px;
     text-align: center;
     border-bottom: 1px solid #ffffff;
@@ -72,7 +72,7 @@ section h2 {
 .produto {
     background-color: #fff;
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 20px;
     padding: 20px;
     text-align: center;
     width: 200px;
@@ -95,8 +95,8 @@ section h2 {
 }
 
 .comprar {
-    background-color: #009d1a;
-
+    background-color: #00c921;
+    border-radius: 5px;
 }
 
 footer {
