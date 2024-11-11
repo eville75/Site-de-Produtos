@@ -97,6 +97,7 @@ section h2 {
 .comprar {
     background-color: #00c921;
     border-radius: 5px;
+    border: 0.5px solid #00c921;
 }
 
 footer {
